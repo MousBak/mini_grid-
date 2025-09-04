@@ -1,0 +1,5 @@
+mini_grid/
+*.zip
+*.csv
+venv/
+__pycache__/
